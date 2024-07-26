@@ -17,7 +17,9 @@
 - 📫 How to reach me **ivanrazo745@gmail.com**
 
 - 🚀 I want to become a successful developer one day and create
-  my own projects inspired by the masterpiece of other devs.
+my own projects inspired by the masterpiece of other devs.
+
+  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanrazo17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
