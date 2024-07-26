@@ -5,8 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A Beginner Frontend Developer</h3>
-<img align="right" height="150" src="https://imgur.com/xDp8pbu.gif"  />
+<h3 align="center">A Beginner Frontend Developer</h3><img align="right" height="150" src="https://imgur.com/xDp8pbu.gif"  />
 
 - 🔭 I’m currently working on **Side Projects**
 
