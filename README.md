@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="600" src="https://tenor.com/view/persona5-typing-personafive-keyboard-busy-gif-8610390.gif"  />
+  <img height="400" width="1200" src="https://tenor.com/view/persona5-typing-personafive-keyboard-busy-gif-8610390.gif"  />
 </div>
 
 ###
