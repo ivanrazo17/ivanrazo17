@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **ReactJS**
 
-- 📫 How to reach me **ivanrazo745@gmail.com**
+- 📫 How to reach me **https://devfolio-ivanrazo.vercel.app/**
 
 - 🚀 I want to become a successful developer one day and create
 my own projects inspired by the masterpiece of other devs.
